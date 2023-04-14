@@ -1,1 +1,2 @@
-day la tdc.txt
+day la tdc.txt 
+them lan 1
