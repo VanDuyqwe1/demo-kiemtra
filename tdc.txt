@@ -1,2 +1,3 @@
 day la tdc.txt 
 them lan 1
+them lan 2
